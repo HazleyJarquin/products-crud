@@ -9,7 +9,7 @@ Para instalar el proyecto, sigue estos pasos:
 1. Clona el repositorio en tu máquina local:
 
    ```sh
-   git clone
+   git clone https://github.com/HazleyJarquin/products-crud.git
    cd products-crud
    ```
 
